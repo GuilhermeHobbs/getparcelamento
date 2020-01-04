@@ -148,6 +148,16 @@
         "qtde_parcelas": "15",
         "3": "50%",
         "desconto_enviar": "50%"
+    },
+    {
+        "0": "5%",
+        "desconto_aplicado": "5%",
+        "1": "5",
+        "qtde_dias": "10",
+        "2": "15",
+        "qtde_parcelas": "15",
+        "3": "50%",
+        "desconto_enviar": "50%"
     }
 ]
 
